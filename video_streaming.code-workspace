@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Back-end/go-full-stack/backend"
+		},
+		{
+			"path": "../../Back-end/go-full-stack/frontend"
+		}
+	],
+	"settings": {}
+}

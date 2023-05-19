@@ -1,0 +1,14 @@
+.Error{
+    /* background-color: black; */
+    /* width: 85vw; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15%;
+
+}
+.Error img{
+    object-fit: cover;
+    width: 86vw;
+}
